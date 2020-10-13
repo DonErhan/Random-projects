@@ -1,0 +1,3 @@
+Send personalized email from a csv.
+ Enter your email adress and password in config.py.
+ Create csv file with name, email, grade
