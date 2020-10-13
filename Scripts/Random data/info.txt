@@ -1,0 +1,4 @@
+Get random:
+- Emails with name and surname
+- Addresses
+- Phone numbers
