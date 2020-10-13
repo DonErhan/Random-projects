@@ -1,5 +1,5 @@
 #####################################################################
-#        Module to create basic random data for tutorials           #
+#        Module to create basic random data                         #
 #####################################################################
 
 import random
