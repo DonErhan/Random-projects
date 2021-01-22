@@ -1,0 +1,4 @@
+Points,Sketch,Numpy,Sklearn
+10000,2.38 s,766 ms,15.3 ms
+100000,36.9 s,7.53 s,73.4 ms
+1000000,5min 13s,1min 45s,645 ms
